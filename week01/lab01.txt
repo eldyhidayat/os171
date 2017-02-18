@@ -22,3 +22,5 @@ drwxr-xr-x  2 eldy.hidayat StafCS 4096 Feb 18 13:45 week09
 drwxr-xr-x  2 eldy.hidayat StafCS 4096 Feb 18 13:45 week10
 drwxr-xr-x  2 eldy.hidayat StafCS 4096 Feb 18 13:46 xtra
 /home/fasilkom/mahasiswa/e/eldy.hidayat/os171/week01
+Today is 
+Today is 
