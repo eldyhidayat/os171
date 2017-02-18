@@ -1,0 +1,9 @@
+w01-140206-13-LR-About: Scripting, From: Lecturer
+w01-140206-13-LR-About: Scripting, From: Lecturer
+w01-140206-14-LR-About: Scripting, From: Lecturer
+w01-160206-13-LR-About: Scripting, From: Lecturer
+w01-160206-13-LR-About: Scripting, From: Lecturer
+w01-160206-14-LR-About: Scripting, From: Lecturer
+w01-180206-13-PS-About: Git, CLI, and Scripting
+w01-180206-14-PS-About: Git, CLI, and Scripting
+w01-180206-14-PS-About: Git, CLI, and Scripting
