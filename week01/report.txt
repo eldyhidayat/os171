@@ -1,0 +1,1 @@
+tugas week01 berisi tentang tutorual tentang membuat direktori, mengakses direktori, membuat file, menggunakan text editor, dll
