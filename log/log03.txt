@@ -1,0 +1,9 @@
+w03-210206-13-LR-About: Boot From: Lecturer
+w03-210206-13-LR-About: Boot From: Lecturer
+w03-210206-14-LR-About: Boot From: Lecturer
+w03-230206-13-LR-About: Boot, sudo, and preview next week From: Lecturer
+w03-230206-13-LR-About: Boot, sudo, and preview next week From: Lecturer
+w03-230206-14-LR-About: Boot, sudo, and preview next week From: Lecturer
+w03-040306-13-PS-About: BIOS, Boot, and UpStart
+w03-040306-13-PS-About: BIOS, Boot, and UpStart
+w03-040306-14-PS-About: BIOS, Boot, and UpStart
