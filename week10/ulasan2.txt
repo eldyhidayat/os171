@@ -1,4 +1,4 @@
-Github Account : eldy.hidayat
+Github Account : eldyhidayat
 http://eldy-hidayat.blogspot.co.id/2017/05/spinlock-with-delay.html
 URL Video : https://youtu.be/KlRkAdQKjnE (5:04)
 Video Author : Udacity
